@@ -1,0 +1,3 @@
+CLASS Test.test2:
+
+END CLASS.
